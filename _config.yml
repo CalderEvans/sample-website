@@ -1,8 +1,8 @@
-name: 'Calder`s math'
+name: 'Calders math'
 description: 'So much potential'
 tagline: 'yada yada'
 url: 'http://calderevans.github.io'
-baseurl: '/SampleWebsite'
+baseurl: '/sample-website'
 paginate: 10
 
 markdown: kramdown
