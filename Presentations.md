@@ -13,4 +13,6 @@ I gave my NAU Capstone Presentation at the Friday Afternoon Mathematics Undergra
 
 April 25, 2025:
 
-<img src="{{ site.baseurl }}/files/QuantumColoringPosterUGrads.pdf" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
+<embed src="{{ site.baseurl }}/files/QuantumColoringPosterUGrads.pdf"
+       type="application/pdf"
+       width="100%" height="600px">
