@@ -8,11 +8,13 @@ Here are a list of presentations that I have given during my Graduate and Underg
 
 December 6, 2024: 
 
-I gave my NAU Capstone Presentation at the Friday Afternoon Mathematics Undergraduate Symposium (FAMUS), this was a semester long research project that I did with Breelyn Cocke on the Graceful Labelings of Graphs.
-[clicking here]({{ site.baseurl }}/files/GracefulLabelingSlides.pdf).
+I gave my NAU Capstone Presentation at the Friday Afternoon Mathematics Undergraduate Symposium (FAMUS), this was a semester long research project that I did with Breelyn Cocke on the [Graceful Labelings of Graphs]({{ site.baseurl }}/files/GracefulLabelingSlides.pdf).
 
 April 25, 2025:
 
+I gave a poster presentation at NAU's Undergraduate Symposium on my Undergraduate Research with Taylor Grace and Assistant Professor Samuel J Harris on Quantum Coloring of Graphs
 <embed src="{{ site.baseurl }}/files/QuantumColoringPosterUGrads.pdf"
        type="application/pdf"
        width="100%" height="600px">
+
+I also gave a [presentation]({{ site.baseurl }}/files/QuantumColoringSlidesUGrads.pdf) on the same topic. 
