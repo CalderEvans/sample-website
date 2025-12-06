@@ -17,4 +17,6 @@ I gave a poster presentation at NAU's Undergraduate Symposium on my Undergraduat
        type="application/pdf"
        width="100%" height="600px">
 
+<div style="margin-top: 30px;"></div>
+
 I also gave a [presentation]({{ site.baseurl }}/files/QuantumColoringSlidesUGrads.pdf) on the same topic. 
