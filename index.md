@@ -3,7 +3,7 @@ layout: default
 title: My Sample Website
 ---
 
-My name is Calder Evans, I am currently a Graduate Research Assistant working on my Master's Degree at NAU. I completed a Bachelors Degree in Mathematics at NAU in May of 2025. 
+My name is Calder Evans, I am currently a Graduate Teaching Assistant working on my Master's Degree at NAU. I completed a Bachelors Degree in Mathematics at NAU in May of 2025. 
 
 This website is currently under construction.
 
