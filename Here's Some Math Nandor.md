@@ -1,5 +1,5 @@
 ---
-title: Page Three
+title: Here's Some Math Nandor
 author: Dana Ernst
 layout: default
 ---
