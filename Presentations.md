@@ -4,12 +4,12 @@ author: Dana Ernst
 layout: default
 ---
 <p style="font-size: 24px;">Below are a list of presentations that I have given during my Graduate and Undergraduate career:</p>
-<p style="font-size: 30px; text-align: center;">2025</p>
+<p style="font-size: 30px; text-align: center; font-style: bold;">2025</p>
 
 
 April 25, 2025:
 
-I gave a poster presentation at NAU's Undergraduate Symposium on my Undergraduate Research with Taylor Grace and Assistant Professor Samuel J Harris on Quantum Coloring of Graphs
+I gave a poster presentation at NAU's Undergraduate Symposium on my Undergraduate Research with Taylor Grace and Assistant Professor Samuel J. Harris on the Quantum Coloring of Graphs.
 <embed src="{{ site.baseurl }}/files/QuantumColoringPosterUGrads.pdf"
        type="application/pdf"
        width="100%" height="600px">
