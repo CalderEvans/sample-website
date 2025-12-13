@@ -4,7 +4,10 @@ author: Dana Ernst
 layout: default
 ---
 <p style="font-size: 24px;">Below are a list of presentations that I have given during my Graduate and Undergraduate career:</p>
-<b style="font-size: 30px; text-align: center;">2025</b>
+<div class="container"> 
+<p style="font-size: 30px; text-align: center;">2025</p>
+</div>
+
 
 
 April 25, 2025:
