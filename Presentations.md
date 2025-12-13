@@ -3,6 +3,7 @@ title: Presentations
 author: Dana Ernst
 layout: default
 ---
+<div style="margin-top: 50px;"></div>
 <p style="font-size: 24px;">Below are a list of presentations that I have given during my Graduate and Undergraduate career:</p>
 <div style="margin-top: 50px;"></div>
 <p style="font-size: 30px; text-align: center;">2025</p>
