@@ -19,7 +19,12 @@ I gave a poster presentation at NAU's Undergraduate Symposium on my Undergraduat
 
 I also gave a [presentation]({{ site.baseurl }}/files/QuantumColoringSlidesUGrads.pdf) on the same topic. 
 
+April 13, 2025:
+
+At the 2025 Southwestern Undergraduate Mathematics Research Conference I gave an oral presentation on how the Mermin Peres Magic Square game relates to my research on Quantum Coloring. 
+
 <p style="font-size: 30px; text-align: center;">2024</p>
+
 December 6, 2024: 
 
 I gave my NAU Capstone Presentation at the Friday Afternoon Mathematics Undergraduate Symposium (FAMUS), this was a semester long research project that I did with Breelyn Cocke on the [Graceful Labelings of Graphs]({{ site.baseurl }}/files/GracefulLabelingSlides.pdf).
