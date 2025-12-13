@@ -8,7 +8,7 @@ layout: default
 
 
 
-April 25, 2025:
+<b>April 25, 2025:</b>
 
 I gave a poster presentation at NAU's Undergraduate Symposium on my Undergraduate Research with Taylor Grace and Assistant Professor Samuel J. Harris on the Quantum Coloring of Graphs.
 <embed src="{{ site.baseurl }}/files/QuantumColoringPosterUGrads.pdf"
@@ -19,12 +19,12 @@ I gave a poster presentation at NAU's Undergraduate Symposium on my Undergraduat
 
 I also gave a [presentation]({{ site.baseurl }}/files/QuantumColoringSlidesUGrads.pdf) on the same topic. 
 
-April 13, 2025:
+<b>April 13, 2025:</b>
 
 At the 2025 Southwestern Undergraduate Mathematics Research Conference I gave an oral [presentation]({{ site.baseurl }}/files/GraphingMerminPeres.pdf) on how the Mermin Peres Magic Square game relates to my research on Quantum Coloring. 
 
 <p style="font-size: 30px; text-align: center;">2024</p>
 
-December 6, 2024: 
+<b>December 6, 2024:</b>
 
 I gave my NAU Capstone Presentation at the Friday Afternoon Mathematics Undergraduate Symposium (FAMUS), this was a semester long research project that I did with Breelyn Cocke on the [Graceful Labelings of Graphs]({{ site.baseurl }}/files/GracefulLabelingSlides.pdf).
