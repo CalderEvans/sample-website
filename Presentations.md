@@ -6,7 +6,7 @@ layout: default
 <div style="margin-top: 50px;"></div>
 <p style="font-size: 24px;">Below are a list of presentations that I have given during my Graduate and Undergraduate career:</p>
 <div style="margin-top: 50px;"></div>
-<b style="font-size: 30px; text-align: center;">2025</b>
+<p style="font-size: 30px; text-align: center;">2025</p>
 <div style="margin-top: 50px;"></div>
 
 <b style="font-size: 16px;">December 4, 2025:</b>
@@ -34,7 +34,7 @@ I also gave a [presentation]({{ site.baseurl }}/files/QuantumColoringSlidesUGrad
 
 At the 2025 Southwestern Undergraduate Mathematics Research Conference (SUnMaRC) I gave an oral [presentation]({{ site.baseurl }}/files/GraphingMerminPeres.pdf) on how the Mermin Peres Magic Square game relates to my research on Quantum Coloring. 
 
-<b style="font-size: 30px; text-align: center;">2024</b>
+<p style="font-size: 30px; text-align: center;">2024</p>
 
 <b style="font-size: 16px;">December 6, 2024:</b>
 
