@@ -9,13 +9,16 @@ layout: default
 <p style="font-size: 30px; text-align: center;">2025</p>
 <div style="margin-top: 50px;"></div>
 
+<b>April 30, 2025:</b>
+As part of my final Undergraduate Analysis Course in Topology I had to prepare and give a [presentation]({{ site.baseurl }}/files/TopologyFinalProject) on the Tietze Extension Theorem. 
+<div style="margin-top: 30px;"></div>
+
 <b>April 25, 2025:</b>
 
 I gave a poster presentation at NAU's Undergraduate Symposium on my Undergraduate Research with Taylor Grace and Assistant Professor Samuel J. Harris on the Quantum Coloring of Graphs.
 <embed src="{{ site.baseurl }}/files/QuantumColoringPosterUGrads.pdf"
        type="application/pdf"
        width="100%" height="600px">
-
 <div style="margin-top: 30px;"></div>
 
 I also gave a [presentation]({{ site.baseurl }}/files/QuantumColoringSlidesUGrads.pdf) on the same topic. 
