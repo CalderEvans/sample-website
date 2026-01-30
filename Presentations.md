@@ -9,8 +9,13 @@ layout: default
 <p style="font-size: 30px; text-align: center;">2025</p>
 <div style="margin-top: 50px;"></div>
 
+<b>December 4, 2025:</b>
+For my first Graduate Analysis Course, Complex Analysis, I prepared and gave a [presentation]({{ site.baseurl }}/files/ComplexFinalProject.pdf) on Meromorphic Functions with Joshua Martey. 
+<div style="margin-top: 30px;"></div>
+
+
 <b>April 30, 2025:</b>
-As part of my final Undergraduate Analysis Course in Topology I had to prepare and give a [presentation]({{ site.baseurl }}/files/TopologyFinalProject) on the Tietze Extension Theorem. 
+As a part of my final Undergraduate Analysis Course, Topology, I had to prepare and give a [presentation]({{ site.baseurl }}/files/TopologyFinalProject.pdf) on the Tietze Extension Theorem. 
 <div style="margin-top: 30px;"></div>
 
 <b>April 25, 2025:</b>
