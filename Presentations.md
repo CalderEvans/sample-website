@@ -10,7 +10,7 @@ layout: default
 <div style="margin-top: 50px;"></div>
 
 <b>December 4, 2025:</b>
-For my first Graduate Analysis Course, Complex Analysis, I prepared and gave a [presentation]({{ site.baseurl }}/files/ComplexFinalProject.pdf) on Meromorphic Functions with Joshua Martey. 
+For my first Graduate Analysis Course, Complex Analysis, I prepared and gave a [presentation]({{ site.baseurl }}/files/ComplexFinalPresentation.pdf) on Meromorphic Functions with Joshua Martey. 
 <div style="margin-top: 30px;"></div>
 
 
