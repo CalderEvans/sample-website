@@ -28,4 +28,4 @@ At the 2025 Southwestern Undergraduate Mathematics Research Conference I gave an
 
 <b>December 6, 2024:</b>
 
-I gave my NAU Capstone Presentation at the Friday Afternoon Mathematics Undergraduate Symposium (FAMUS), this was a semester long research project that I did with Breelyn Cocke on the [Graceful Labelings of Graphs]({{ site.baseurl }}/files/GracefulLabelingSlides.pdf).
+I gave my NAU Capstone Presentation at the Friday Afternoon Mathematics Undergraduate Symposium (FAMUS), this was a semester long research project that I did with Breelyn Cocke on the [Graceful Labelings of Graphs]({{ site.baseurl }}/files/MAT_486H_Graceful_Labeling_Slides.pdf).
