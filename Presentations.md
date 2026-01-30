@@ -20,7 +20,7 @@ For my first Graduate Analysis Course, Complex Analysis, I prepared and gave a [
 As a part of my final Undergraduate Analysis Course, Topology, I had to prepare and give a [presentation]({{ site.baseurl }}/files/TopologyFinalProject.pdf) on the Tietze Extension Theorem. 
 <div style="margin-top: 30px;"></div>
 
-<bstyle="font-size: 16px;" >April 25, 2025:</b>
+<b style="font-size: 16px;" >April 25, 2025:</b>
 
 I gave a poster presentation at NAU's Undergraduate Symposium on my Undergraduate Research with Taylor Grace and Assistant Professor Samuel J. Harris on the Quantum Coloring of Graphs.
 <embed src="{{ site.baseurl }}/files/QuantumColoringPosterUGrads.pdf"
