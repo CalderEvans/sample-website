@@ -9,7 +9,7 @@ layout: default
 <p style="font-size: 30px; text-align: center;">2025</p>
 <div style="margin-top: 50px;"></div>
 
-<b>December 4, 2025:</b>
+<b style="font-size: 20px;">December 4, 2025:</b>
 For my first Graduate Analysis Course, Complex Analysis, I prepared and gave a [presentation]({{ site.baseurl }}/files/ComplexFinalPresentation.pdf) on Meromorphic Functions with Joshua Martey. 
 <div style="margin-top: 30px;"></div>
 
@@ -19,7 +19,6 @@ As a part of my final Undergraduate Analysis Course, Topology, I had to prepare 
 <div style="margin-top: 30px;"></div>
 
 <b>April 25, 2025:</b>
-
 I gave a poster presentation at NAU's Undergraduate Symposium on my Undergraduate Research with Taylor Grace and Assistant Professor Samuel J. Harris on the Quantum Coloring of Graphs.
 <embed src="{{ site.baseurl }}/files/QuantumColoringPosterUGrads.pdf"
        type="application/pdf"
