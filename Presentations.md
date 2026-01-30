@@ -22,7 +22,7 @@ I also gave a [presentation]({{ site.baseurl }}/files/QuantumColoringSlidesUGrad
 
 <b>April 13, 2025:</b>
 
-At the 2025 Southwestern Undergraduate Mathematics Research Conference I gave an oral [presentation]({{ site.baseurl }}/files/GraphingMerminPeres.pdf) on how the Mermin Peres Magic Square game relates to my research on Quantum Coloring. 
+At the 2025 Southwestern Undergraduate Mathematics Research Conference (SUnMaRC) I gave an oral [presentation]({{ site.baseurl }}/files/GraphingMerminPeres.pdf) on how the Mermin Peres Magic Square game relates to my research on Quantum Coloring. 
 
 <embed src="{{ site.baseurl }}/files/GraphingMerminPeres.pdf"
        type="application/pdf"
