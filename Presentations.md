@@ -22,13 +22,11 @@ As a part of my final Undergraduate Analysis Course, Topology, I had to prepare 
 
 <b style="font-size: 16px;" >April 25, 2025:</b>
 
-I gave a poster presentation at NAU's Undergraduate Symposium on my Undergraduate Research with Taylor Grace and Assistant Professor Samuel J. Harris on the Quantum Coloring of Graphs.
+I gave an oral [presentation]({{ site.baseurl }}/files/QuantumColoringSlidesUGrads.pdf) at NAU's Undergraduate Symposium on my Undergraduate Research with Taylor Grace and Assistant Professor Samuel J. Harris on the Quantum Coloring of Graphs. I also gave a poster presentation on the same topic later during the Symposium. 
 <embed src="{{ site.baseurl }}/files/QuantumColoringPosterUGrads.pdf"
        type="application/pdf"
        width="100%" height="600px">
 <div style="margin-top: 30px;"></div>
-
-I also gave a [presentation]({{ site.baseurl }}/files/QuantumColoringSlidesUGrads.pdf) on the same topic. 
 
 <b style="font-size: 16px;">April 13, 2025:</b>
 
