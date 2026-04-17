@@ -1,6 +1,6 @@
 ---
 title: Presentations
-author: Dana Ernst
+author: Calder Evans
 layout: default
 ---
 <div style="margin-top: 50px;"></div>
